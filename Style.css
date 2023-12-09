@@ -1,0 +1,128 @@
+body{text-align: center;
+font-family: 'Franklin Gothic Medium';margin: 0 0;
+color: #001524;
+    
+}
+
+
+.imgforex{width: 100%;height:100%; display: flex;right: 10%;margin-bottom: 0;}
+
+.logoname{
+    position: absolute;
+    top: 25%;
+    left: 58%;
+font-size: 85px; 
+}
+.Tag{position: absolute;
+top:80%;
+left:53.5%;
+font-size: 50px;}
+
+.logocolor{color: #ccb894; margin:0 0;}
+
+.table{margin-left: 40%;
+    
+    margin-bottom: 0%;padding-left: 10px;
+    border-spacing: 30px ;
+    border: solid #001524; 
+    border-width: 15px;
+margin-bottom: 10px;border-radius: 40px; }
+.tablediv{margin-right: 15%;}
+
+  .tabletwo{margin: auto 600px; margin-left: 40%;
+    
+    margin-bottom: 0%;
+    padding-left: 10px;
+    margin-right: 2%;
+    border-spacing: 30px ;
+    border: solid #001524; 
+    border-width: 15px;
+margin-bottom: 10px;border-radius: 40px;} 
+
+
+
+.h2{font-size: large; padding: 15px;}
+.h22{padding-left: 235px;
+padding-top: 3%;
+padding-bottom: 3%; font-size: large;}
+.underline{text-decoration: underline;}
+.MH1{margin-top:0%;  padding-top: 8%; font-family:'sacramento'; font-size: 100px;}
+.MP{padding-top:3%;padding-bottom: 3%;margin: 0% 24%;width: 50%; line-height: 2; 
+    font-family: 'Rubik Bubbles';
+    font-size: 25px;
+color: #001524;}
+
+
+
+
+
+.Middle-container{background-color: #5F8D4E; margin-bottom: 0%; padding-bottom: 20px;height: 1430px;}
+
+
+.Middle-low{background-color: #263A29; height: 1400px; color: #001524;
+    font-family: 'Rubik Bubbles';font-size: 32px;margin-top: 0%;
+padding-top: 150px;}
+.headphone{padding-top: 30px;}
+.video{  
+    border-top-left-radius:25%;  }
+.Vpara{margin-top: 10%; padding-bottom: 25px ;}
+
+.LiveAccounts{color:#186F65 ;background-color:#FFFFDD ;}
+.table2{margin: auto 600px; margin-left: 40%;
+    
+    margin-bottom: 0%;
+    padding-left: 10px;
+    margin-right: 2%;
+    border-spacing: 30px ;
+    border: solid #186F65; 
+    border-width: 15px;
+margin-bottom: 10px;border-radius: 40px}
+.MP2{color: #186F65;font-family: 'Rubik Bubbles';width: 50%; line-height: 2; 
+    margin: 10px auto; font-size: 27px;}
+
+
+.contact{width: 100%;height: 250px; padding-top: 30px;font-family: 'Helvatica';
+    font-size: 18px; color: #2D9596; background-color: #001524;}
+.sh2{margin:0 30% ;margin-bottom: 60px;font-size: 25px; width: 6px 8px;}
+.btn {
+     
+    background: #668aa1;
+    background-image: -webkit-linear-gradient(top, #668aa1, #152a36);
+    background-image: -moz-linear-gradient(top, #668aa1, #152a36);
+    background-image: -ms-linear-gradient(top, #668aa1, #152a36);
+    background-image: -o-linear-gradient(top, #668aa1, #152a36);
+    background-image: linear-gradient(to bottom, #668aa1, #152a36);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 0px 0px 0px #1f041f;
+    font-family:'Rubik Bubbles' ;
+    color: #d6ddf0;
+    font-size: 18px;
+    padding: 5px 12px 5px 12px;
+    border: solid #6d88bf 2px;
+    text-decoration:none;
+  }
+  
+  .btn:hover {
+    margin-bottom: 0%;
+    background: #0f1417;
+    background-image: -webkit-linear-gradient(top, #0f1417, #174361);
+    background-image: -moz-linear-gradient(top, #0f1417, #174361);
+    background-image: -ms-linear-gradient(top, #0f1417, #174361);
+    background-image: -o-linear-gradient(top, #0f1417, #174361);
+    background-image: linear-gradient(to bottom, #0f1417, #174361);
+    text-decoration: none;
+  }
+  .last{height: 100px;width: 100%;
+background-color: #001524;
+font-size: 20px; font-family: 'Rubik Bubbles';
+margin-top: 0%;}
+
+a{color: #2D9596;
+margin:10px 20px;
+text-decoration: none;}
+
+
+a:hover{color: #FFFFDD;}
+.Copyright{color: #d6ddf0;font-size: 0.75rem;}
